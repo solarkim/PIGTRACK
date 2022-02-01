@@ -3,7 +3,7 @@ import cv2
 import numpy as np 
 import matplotlib.pyplot as plt 
 # 변경사항
-# 변경사항 2
+# 변경사항
 
 blk_size = 9        # 블럭 사이즈
 C = 5               # 차감 상수 
